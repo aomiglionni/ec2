@@ -1,7 +1,5 @@
 <h1>Terraform - IaC (Infraestrutura como código)</h1>
-Alberto Miglionni
-
-
+<br>
 1) Criação da VPC Main
 2) Criação das Subnets Públicas e Privadas
 3) Criação do Internet Gateway para VPC
